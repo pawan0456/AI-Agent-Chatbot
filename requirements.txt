@@ -1,0 +1,14 @@
+Langchain_openai
+flask
+sentence-transformers
+pypdf
+python-dotenv
+langchain-pinecone
+langchain-openai
+langchain-community
+pymupdf
+langchain_community
+streamlit
+langchain_core
+langserve
+langchain_groq
